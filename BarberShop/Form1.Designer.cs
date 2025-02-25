@@ -56,11 +56,11 @@
             // 
             this.label1.AutoSize = true;
             this.label1.BackColor = System.Drawing.Color.Transparent;
-            this.label1.Font = new System.Drawing.Font("Bauhaus 93", 19.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 16.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label1.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(117)))), ((int)(((byte)(214)))));
-            this.label1.Location = new System.Drawing.Point(60, 144);
+            this.label1.Location = new System.Drawing.Point(57, 156);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(255, 38);
+            this.label1.Size = new System.Drawing.Size(241, 32);
             this.label1.TabIndex = 4;
             this.label1.Text = "INICIAR SESION";
             this.label1.Click += new System.EventHandler(this.label1_Click);
